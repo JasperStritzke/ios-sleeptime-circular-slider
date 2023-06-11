@@ -1,7 +1,7 @@
 # ios-sleeptime-circular-slider 
 ###### _i had no idea how to name this project ^^_
 
-I really like the iOS interaction to set your sleep time - so I tried cloneing it.
+I really like the iOS interaction to set your sleep time - so I tried cloning it.
 
 I definetly could optimize the maths behind it and also fix one or two minor visual glitches.
 
